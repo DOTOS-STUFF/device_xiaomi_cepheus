@@ -110,3 +110,6 @@ ro.surface_flinger.protected_contents=true
 
 # WiFi
 wifi.interface=wlan0
+
+# SurfaceFlinger brightness tweak
+ro.sf.force_light_brightness=1
